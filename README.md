@@ -1,16 +1,16 @@
-Project:
+### Project:
 
 Functional tests of Mortgage Payment Calculator using Selenium WebDriver, TestNG, Java.
 
 
-Application:
+### Application:
 
 Mortgage Payment Calculator is a tool to figure out residential mortgages payments. 
 
-Resources:
+### Resources:
 
 Web page under test: https://ia.ca/mortgage-payment-calculator
 
 Tests: https://github.com/lenamv/MortgagePaymentCalculator
 
-Schema of the Project: 
+Schema of the Project: https://github.com/lenamv/MortgagePaymentCalculator/blob/master/project/MPC_projectSchema.JPG 
